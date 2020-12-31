@@ -1,0 +1,49 @@
+#img-fahd {
+    width: 64px ;
+    height: 64px ;
+    border-radius: 50%;
+}
+#logo-facebook{
+    width: 33.5px;
+    height: 33.5px ;
+    margin: 0px 20px 5px 20px;
+}
+#codes{
+    width: 98%;
+    min-height: 280px;
+    border-radius: 16px;
+    border: 1px solid red ;
+    outline: 0px;
+}
+main{
+    text-align: center;
+}
+#buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+#buttons button{
+    width: 47%;
+    border-radius: 12px;
+    border: 0px;
+    padding: 12px;
+}
+#remove{
+    background-color: red;
+    color: white;
+    outline: 0px;
+}
+#play{
+    background-color: green;
+    color: white;
+    outline: 0px;
+}
+#title-result{
+    padding: 10px;
+    border-bottom:2px solid rgb(182, 170, 170) ;
+    margin: 8px 0px;
+    font-weight: bold;
+}
+#result{
+    max-width: 100% !important;
+}
